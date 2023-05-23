@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.featured-item{
+    background-image: url('./assets/home/featured.jpg');
+    opacity: 90%;
+}
